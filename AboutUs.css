@@ -70,6 +70,10 @@ aside{
 .video{
 	text-align:center;
 }
+img{
+        height: 250px;
+	width: 345px;
+}
 
 footer {
     background-color: white;
