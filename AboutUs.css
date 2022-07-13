@@ -61,11 +61,11 @@ section{
 	display:flex
 }
 article{
-        text-align:right;
+        text-align:left;
 }
 
 aside{
-        text-align:left;
+        text-align:right;
 }
 
 .town{
