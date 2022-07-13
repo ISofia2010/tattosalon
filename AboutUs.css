@@ -57,6 +57,17 @@ p {
 	color:white;
 }
 
+section{
+	display:flex
+}
+article{
+        text-align:right;
+}
+
+aside{
+        text-align:left;
+}
+
 .town{
 	text-align:center;
 }
