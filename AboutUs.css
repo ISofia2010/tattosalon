@@ -21,6 +21,22 @@ a{
 	text-decoration:none;
 	 padding: 25px 100px 25px 95px;
 }
+header a::hover{
+float:left;
+color:red;
+font-size:16px;
+text-decoration:none;
+padding: 25px 100px 25px 95px;
+}
+header a::visited{
+float:left;
+color:black;
+background-color: white;
+font-size:16px;
+text-decoration:none;
+border-radius:50px;
+padding: 25px 100px 25px 95px;
+}
 
 section h1 {
     text-align: left;
@@ -97,6 +113,7 @@ footer {
 
 footer a {
     margin-right: ;
+	border-radius:50%;
 }
 
 footer p {
