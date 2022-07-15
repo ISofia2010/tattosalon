@@ -8,11 +8,14 @@ main img {
   width:275px;
   height:225px;
 marging: 32px;
- 
 }
-
+main{
+     background-color: black;
+}
 section{
-     jactify-content:center;
+     margin-left: auto; 
+     margin-right: auto; 
+     width: 6em;
 }
 nav {
 	
