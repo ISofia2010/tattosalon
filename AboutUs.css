@@ -37,11 +37,11 @@ p {
 }
 .brand{
 	font-size:32px;
-	float:left;
+	
 }
 .text{
 	font-size:20px;
-	float:left;
+	
 }
 
 .infa1{
@@ -54,14 +54,16 @@ p {
 }
 
 section{
-	display:flex;
+	display: flex;
+   flex-direction: column;
+    float: left;
 }
 article{
-        text-align:left;
+        
 }
 
 aside{
-        text-align:right;
+        float: right;
 }
 
 .town{
