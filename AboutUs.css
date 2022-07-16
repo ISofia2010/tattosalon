@@ -95,13 +95,15 @@ aside{
 .town{
 	text-align:center;
 }
-.video{
-	text-align:center;
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
 }
 main img{
         height: 250px;
 	width: 345px;
-	text-align:center;
 }
 
 footer {
@@ -111,7 +113,7 @@ footer {
    
 }
 
-footer a {
+.media {
     margin-right: ;
 	border-radius: 50%;
 }
