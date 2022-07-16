@@ -98,12 +98,12 @@ aside{
 
 .container {
   display: flex;
-  justify-content: center;
-  align-items: center; 
+  justify-content: center; 
 }
 main img{
         height: 250px;
 	width: 345px;
+	jastify-content: center;
 }
 
 footer {
