@@ -24,7 +24,9 @@ padding: 25px 100px 25px 95px;
 main img {
   width:275px;
   height:225px;
-marging:62px;
+marging-left:62px;
+marging-top:68px;
+marging-bottom:68px;
 }
 main{
      background-color: black;
