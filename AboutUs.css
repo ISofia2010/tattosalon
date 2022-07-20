@@ -92,8 +92,8 @@ aside{
 	height: 1140px;
 }
 
-.town{
-	text-align:center;
+.map{
+  clear:both;
 }
 
 .container {
