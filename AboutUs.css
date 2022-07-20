@@ -99,6 +99,7 @@ aside{
 .container {
   display: flex;
   justify-content: center; 
+  clear:both; 
 }
 main img{
         height: 250px;
