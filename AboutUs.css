@@ -93,7 +93,13 @@ aside{
 }
 
 .map{
+  display: flex;
+  justify-content: center; 
   clear:both;
+}
+
+.town{
+   text-align:center;
 }
 
 .container {
