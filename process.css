@@ -1,0 +1,85 @@
+header{
+background-image: url(https://vean-tattoo.com/static/images/header-lg.webp);
+ background-size:100% 100%;
+ height:1000px
+}
+
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+nav {
+	
+    justify-content:flex-ende;
+    display: flex;
+	 padding: 25px 100px 25px 95px;
+}
+a{
+	float: left;
+	color: white;
+	font-size: 32px;
+	text-decoration: none;
+	 padding: 25px 100px 25px 95px;
+}
+header a::hover{
+float: left;
+color: red;
+font-size: 32px;
+text-decoration:none;
+padding: 25px 100px 25px 95px;
+}
+header a::visited {
+float: left;
+color: black;
+background-color: white;
+font-size: 32px;
+text-decoration: none;
+border-radius: 50px;
+padding: 25px 100px 25px 95px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+	  color:white;
+}
+.center p{
+  text-align: center;
+}
+.center img{
+  float: center;
+}
+.right p{
+  text-align: right;
+}
+.right img{
+  float: right;
+}
+.left p{
+  text-align: left;
+}
+.left img{
+  float: left;
+}
+
+footer {
+    background-color: #C4C4C4;
+    padding: ;
+    display: flex;
+   
+}
+
+.media {
+    margin-right: ;
+	border-radius: 50%;
+}
+
+footer p {
+    font-size: 24px;
+    color:black; 	
+}
