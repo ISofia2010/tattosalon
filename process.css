@@ -48,24 +48,20 @@ p {
     font-size: 24px;
 	  color:white;
 }
-.center p{
+.center {
   text-align: center;
 }
-.center img{
-  float: center;
-}
-.right p{
+
+.right {
   text-align: right;
-}
-.right img{
   float: right;
 }
-.left p{
+
+.left {
   text-align: left;
-}
-.left img{
   float: left;
 }
+
 
 footer {
     background-color: #C4C4C4;
