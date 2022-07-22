@@ -45,7 +45,7 @@ h1 {
 }
 
 p {
-    font-size: 24px;
+    font-size: 20px;
 	  color:white;
 }
 .center {
@@ -55,11 +55,13 @@ p {
 .right {
   text-align: right;
   float: right;
+  width:50%;
 }
 
 .left {
   text-align: left;
   float: left;
+  width:50%;
 }
 
 
