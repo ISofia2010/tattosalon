@@ -21,14 +21,14 @@ a{
 	text-decoration: none;
 	 padding: 25px 100px 25px 95px;
 }
-header a::hover{
+nav a::hover{
 float: left;
 color: red;
 font-size: 32px;
 text-decoration:none;
 padding: 25px 100px 25px 95px;
 }
-header a::visited {
+nav a::visited {
 float: left;
 color: black;
 background-color: white;
