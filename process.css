@@ -22,7 +22,7 @@ a{
 	 padding: 25px 100px 25px 95px;
 }
 .shadow-text{
-  color: #f66d52; /* Цвет  текста /
+  color: white; /* Цвет  текста /
   font-size: 2em; / Размер  текста */
   font-weight: bold;
 
@@ -32,7 +32,7 @@ a{
           transition: all 0.5s ease;
 }
 .shadow-text:hover{
-  color: #ffa000; /* Меняем цвет текста */
+  color: #C9D4D4; /* Меняем цвет текста */
   -webkit-text-shadow: 2px 2px 2px #000;
   -moz-text-shadow: 2px 2px 2px #000;
       text-shadow: 2px 2px 2px #000;
